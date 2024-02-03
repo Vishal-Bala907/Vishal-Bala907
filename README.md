@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on any Java Project
-- 📫 How to reach me whatapp -> 9079018358 , email -> vishal.bala.100@gmail.com
+- 📫 How to reach me: whatapp -> 9079018358 , email -> vishal.bala.100@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
