@@ -33,9 +33,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     <a href="https://x.com/dev_VishalBala?t=yzzpVQE1iljmp4sCByUojQ&s=08" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />   
-      
-      <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+        </a>
 </div>
 
 
@@ -45,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,c,github,java" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,,bootstrap,tailwind,git,spring,hibernate,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tailwind,git,spring,hibernate,docker" /><br/>
     <img src="https://skillicons.dev/icons?i=mysql,eclipse,idea,notion,vite,windows,vscode,sts" /><br>
 </div>
 
