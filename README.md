@@ -44,13 +44,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,c,github,java" />
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,,bootstrap,tailwind,git,spring,hibernate,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,c,github,java" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,,bootstrap,tailwind,git,spring,hibernate,docker" /><br/>
     <img src="https://skillicons.dev/icons?i=mysql,eclipse,idea,notion,vite,windows,vscode,sts" /><br>
 </div>
 
 <br/>
 <hr/>
+
 - 👋 Hi, I’m @Vishal-Bala907
 - 👀 I’m interested in Java
 - 🌱 I’m currently improving my Spring Boot and MERN skills
