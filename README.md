@@ -29,11 +29,27 @@
   <a href="https://www.linkedin.com/in/vishal-bala-4311a817a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.instagram.com/dev_vishalbala?igsh=MWU5eW56bmN4NGVqZg==" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <a href="https://x.com/dev_VishalBala?t=yzzpVQE1iljmp4sCByUojQ&s=08" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />   
+      
+      <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,Spring,SpringBoot,hibernate,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,c++,c,javascript,express,mongodb,,java,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
 - 👋 Hi, I’m @Vishal-Bala907
 - 👀 I’m interested in Java
 - 🌱 I’m currently improving my Spring Boot and MERN skills
