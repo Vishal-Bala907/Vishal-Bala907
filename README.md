@@ -49,6 +49,16 @@
 
 <br/>
 <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vishal-Bala907/Vishal-Bala907/Vishal-Bala907-output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 
 - 👋 Hi, I’m @Vishal-Bala907
 - 👀 I’m interested in Java
