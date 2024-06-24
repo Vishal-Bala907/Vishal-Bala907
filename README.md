@@ -88,8 +88,18 @@
 <br/><br/>
 
 <hr/>
-
 <br/>
+
+<table>
+  <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=Vishal-Bala907&show_icons=true&theme=radical&locale=en" alt="Vishal-Bala907" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishal-Bala907&theme=github_dark" alt="Vishal-Bala907" /></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-Bala907&theme=github_dark" alt="streak graph"  />
+</div>
 
 
 <div align="center">
