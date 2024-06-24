@@ -59,6 +59,17 @@
 
 <hr/>
 
+
+
+
+<table>
+  <tr>
+    <td> <img src="https://streak-stats.demolab.com?user=Vishal-Bala907&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal-Bala907&theme=github_dark" alt="Vishal-Bala907" /></td>
+  </tr>
+</table>
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
