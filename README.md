@@ -76,7 +76,6 @@
 
 
 <div align=center>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-bala907&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-bala907" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-bala907" alt="vishal-bala907" /></a> </p>
 
